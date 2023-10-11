@@ -8,6 +8,12 @@ This is crucial for video streaming, which requires fast, uninterrupted data tra
 ## How they work together
 Together, S3 ensures organized, scalable storage; CloudFront guarantees swift, reliable content delivery; and React provides a responsive, intuitive user interface. This synergy creates a streamlined video streaming service that prioritizes performance, scalability, and user engagement.
 
+
+![CDN-drawio drawio](https://github.com/Shereefo/AWS-CDN-Video-Streaming-Service/assets/137960467/ca62782e-f06f-4398-afe7-bfe5a01a00c3)
+
+
+
+
 ## Creating the S3 Bucket
 1. In the AWS console navigate to S3 click create bucket
 2. Provide a name for your bucket and choose your region
