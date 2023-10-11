@@ -9,7 +9,7 @@ This is crucial for video streaming, which requires fast, uninterrupted data tra
 Together, S3 ensures organized, scalable storage; CloudFront guarantees swift, reliable content delivery; and React provides a responsive, intuitive user interface. This synergy creates a streamlined video streaming service that prioritizes performance, scalability, and user engagement.
 
 
-![CDN-drawio drawio](https://github.com/Shereefo/AWS-CDN-Video-Streaming-Service/assets/137960467/ca62782e-f06f-4398-afe7-bfe5a01a00c3)
+![CDn drawio](https://github.com/Shereefo/AWS-CDN-Video-Streaming-Service/assets/137960467/07105440-c759-4bf9-ba97-4933b3f75293)
 
 
 
@@ -96,8 +96,9 @@ Together, S3 ensures organized, scalable storage; CloudFront guarantees swift, r
 3. After the app has been created it is time to tailor it to your personal website: 
 
 
+https://github.com/Shereefo/AWS-CDN-Video-Streaming-Service/assets/137960467/921ad2e3-b8b3-4860-9d66-eb80b2aacc63
 
-https://github.com/Shereefo/AWS-CDN-Video-Streaming-Service/assets/137960467/8ea7a65c-c6cb-4ab7-9a7e-556bd0a02427
+
 
 
 
